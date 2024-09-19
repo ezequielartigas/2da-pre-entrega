@@ -1,0 +1,42 @@
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* estilos de header */
+header{
+    background-color: #25acb6;
+    text-align: center;
+    padding-bottom: 20px;
+}
+header nav ul{
+    list-style: none;
+}
+header nav ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+header nav ul li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+
+}
+/* estilos del main */
+main {
+    text-align: center;
+    padding: 10px;
+}
+main h1{
+    margin-bottom: 20px;
+}
+
+/* estilos footer */
+footer{
+    text-align: center;
+    background-color: #25acb6;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+}
+
+
